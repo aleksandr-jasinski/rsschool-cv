@@ -436,29 +436,17 @@ textarea {
   -webkit-appearance: button;
 }
 
-
-
-
-
 details {
   display: block;
 }
-
-
 
 summary {
   display: list-item;
 }
 
-
-
-
-
 template {
   display: none;
 }
-
-
 
 [hidden] {
   display: none;
@@ -467,6 +455,8 @@ template {
 
 body {
   font-family: "Verdana", sans-serif;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 h1,
