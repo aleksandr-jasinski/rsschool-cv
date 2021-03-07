@@ -436,29 +436,17 @@ textarea {
   -webkit-appearance: button;
 }
 
-
-
-
-
 details {
   display: block;
 }
-
-
 
 summary {
   display: list-item;
 }
 
-
-
-
-
 template {
   display: none;
 }
-
-
 
 [hidden] {
   display: none;
@@ -467,6 +455,8 @@ template {
 
 body {
   font-family: "Verdana", sans-serif;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 h1,
@@ -497,4 +487,13 @@ ul {
   float: right;
   width: 200px;
   height: 200px;
+}
+
+.rss-logo {
+  width: 210px;
+
+}
+
+footer.footer {
+  padding-bottom: 42px;
 }
